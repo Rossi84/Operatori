@@ -1,15 +1,14 @@
 Introduzione
 ============
 
-Questo capitolo descrive le funzionalità base messe a disposizione per il personale di Corecom e Agcom.
+Questo capitolo descrive le funzionalità base messe a disposizione per il personale lato operatore.
 
 I ruoli a disposizione per le figure di Corecom ed Agcom sono:
-- **Guest**: visualizza tutti i procedimenti del soggetto di appartenenza, che sia un Corecom o Agcom, senza poter compiere alcuna operazione.
-- **Responsabile Corecom/Agcom**: gestisce il procedimento in qualità di conciliatore o responsabile del procedimento. Le utenze con tale ruolo hanno visibilità dei soli progetti a loro assegnati.
-- **Segretario Corecom/Agcom**: gestisce il procedimento in qualità di conciliatore o responsabile del procedimento. Si occupa dell'assegnazione dei conciliatori/responsabili dei procedimenti. Ha la visibilità di tutti i procedimenti relativi al Corecom/Agcom. Gestisce gli utenti del Coreom/Agcom.
-- **Direttore Corecom/Agcom**: ha gli stessi poteri del segretario. In aggiuntà gestisce le archiviazioni.
+- **Guest**: visualizza tutti i procedimenti del segreteria di appartenenza senza poter compiere alcuna operazione.
+- **Operatore**: gestisce il procedimento. Le utenze con tale ruolo hanno visibilità dei soli procedimenti a loro assegnati.
+- **Segretario operatore**: gestisce il procedimento. Si occupa dell'assegnazione degli incaricati dei procedimenti. Ha la visibilità di tutti i procedimenti relativi alla segreteria di appartenenza. Gestisce gli utenti della segreteria.
 
-Per poter accedere al sistema è necessario che un utente con ruolo segretario o direttore profili l'utenza nel sistema.
+Per poter accedere al sistema è necessario che un utente con ruolo segretario profili l'utenza nel sistema.
 
 .. toctree::
   :maxdepth: 3
