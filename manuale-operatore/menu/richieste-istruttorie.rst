@@ -1,4 +1,6 @@
 Gestisci richieste istruttorie
 ==============================
 
-In questa sezione è mostrata la lista delle richieste istruttorie fatte dai responsabili Corecom/Agcom dei procedimenti. Da qui è possibile gestire tali richieste.
+Questa voce di menù è presente per gli utenti con profilo *Segretario operatore*.
+
+In questa sezione sono visibili le eventuali richieste di documentazione, fatte dai responsabili Corecom/Agcom, per procedimenti per cui l'operatore non è direttamente coinvolto.

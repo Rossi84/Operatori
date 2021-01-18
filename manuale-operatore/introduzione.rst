@@ -25,3 +25,4 @@ Per poter accedere al sistema è necessario che un utente con ruolo segretario p
   introduzione/lingua.rst
   introduzione/assistenza.rst
   introduzione/home-page.rst
+  introduzione/istanza.rst
