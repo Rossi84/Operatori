@@ -4,11 +4,13 @@ Istanza di conciliazione (Modello UG)
 In questa sezione saranno analizzate le azioni possibili sui singoli procedimenti di conciliazione, in funzione dello stato in cui si trova il procedimento e da chi possono essere fatte.
 
 L'applicazione mostrerà solo i pulsanti delle operazioni permesse tenendo presente lo stato del procedimento e il ruolo di chi sta visulaizzado il procedimento:
+
 - **Guest**: può solo visualizzare i dati della conciliazione senza poter compiere alcuna operazione.
 - **Responsabile operatore**: può compiere tutte le azioni sulle conciliaizoni a lui assegnate.
 - **Operatore**: può compiere tutte le azioni sulle conciliaizoni della segreteria di appartenenza.
 
 In base ai disservizi selezionati e agli operatori coinvolti l'istanza di conciliazione potrà seguire tre distinti iter:
+
 - Andare in negoziazione diretta con l'operatore e se non si è raggiunto l'accordo in tale fase passare alla conciliazione semplificata.
 - Andare in negoziazione diretta con l'operatore e se non si è raggiunto l'accordo in tale fase passare alla convocazione dell'udienza.
 - Andare direttamente in cociliazione in udienza.
