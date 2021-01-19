@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Manuale operatori"
+settings_project_name = "Manuale operatore"
 settings_copyright_copyleft = "AGCOM"
 settings_editor_name = "Agcom - Autorita per le garanzie nelle comunicazioni"
 settings_doc_version = '1'
