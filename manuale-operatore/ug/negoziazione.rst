@@ -39,8 +39,8 @@ Verrà mostrara la maschera per l'inserimento dei campi necessari alla composizi
    
 Inserire un valore per i campi obbligatori, l'OTP per la firma e premere "Invia" e confermare. Attraverso il bottone "Preview" è possibile vedere un'anteprima del verbale che verrà generato nel caso ci sia l'accettazione delle parti.
 
-Negoziazione semplificata
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Conciliazione semplificata
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per i procedimenti per cui è prevista, se non si raggiunge l'accordo nella fase di negoziazione diretta, la conciliazione procede con l'aiuto del conciliatore.
 
