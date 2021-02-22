@@ -19,6 +19,25 @@ L'incaricato può essere variato se necessario.
 
 Per assegnare un utente o variare quello presente premere su "Assegna incaricato" dalla barra delle azioni. Selezionare l'utente desiderato e premere "Assegna".
 
+E' possibile assegnare lo stesso incaricato a più istanze selezionandole dalla lista e poi premendo "Assegna".
+
+.. figure:: /media/assegnazione_multipla_responsabile.png
+   :align: center
+   :name: assegnazione-multipla-responsabile
+   :alt: Assegnazione multipla responsabile
+   
+   Assegnazione multipla incaricato del procedimento
+
+Selezionare l'utente e premere "Assegna".
+
+.. figure:: /media/selezione_responsabile.png
+   :align: center
+   :name: selezione-responsabile
+   :alt: Selezione responsabile
+   
+   Selezione incaricato dei procedimenti
+
+
 Assegnazione ad altra segreteria
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
