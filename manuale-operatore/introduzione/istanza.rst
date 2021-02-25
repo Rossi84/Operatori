@@ -90,6 +90,19 @@ Dalla varra delle azioni è possibile scaricare un file zip contentete tutti i d
    
    Azioni - Download fascicolo
 
+Fascicoli correlati
+~~~~~~~~~~~~~~~~~~~
+
+Se presenti, sulla barra delle azioni vengono visualizzati i fascicoli relativi ai procedimenti correlati.
+Per i procedimenti di definizione è possibile vedere la conciliazione relativa e i provvedimenti temporanei. Per le conciliazioni è possibile vedere i fascicoli dei provvedimenti temporanei.
+
+.. figure:: /media/barra_azioni_fascicolicorr.png
+   :align: center
+   :name: barra-azioni-fascicolicorr
+   :alt: Fascicoli correlati barra azioni
+   
+   Azioni - Fascicoli correlati
+
 Firma
 ~~~~~
 
