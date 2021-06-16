@@ -28,7 +28,7 @@ E' possibile inserire un testo e premere "Invia" per aggiungere una nuova comuni
 
 Quando l'incaricato è pronto per formulare una proposta di accordo premere il tasto "Redigi bozza di accordo".
 
-Verrà mostrara la maschera per l'inserimento dei campi necessari alla composizione dell'eventuale verbale di accordo.
+Verrà mostrata la maschera per l'inserimento dei campi necessari alla composizione dell'eventuale verbale di accordo.
 
 .. figure:: /media/proposta_accordo.png
    :align: center

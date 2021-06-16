@@ -6,7 +6,7 @@ Assegnazione incaricato del procedimento
 
 .. _section-responsabile:
 
-Gli utenti con ruolo "Segretario operatore" dovranno assegnare un utente incaricato per ciascuna istanza. L'utente incaricato sarà coloui che potrà operare sull'istanza.
+Gli utenti con ruolo "Segretario operatore" dovranno assegnare un utente incaricato per ciascuna istanza. L'utente incaricato sarà colui che potrà operare sull'istanza.
 
 L'incaricato può essere variato se necessario.
 
@@ -81,12 +81,12 @@ Tale segnalazione sarà notificata alle parti e il Corecom/Agcom deciderà se ac
 Download fascicolo documentale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Dalla varra delle azioni è possibile scaricare un file zip contentete tutti i documenti presenti sul fascicolo documentale.
+Dalla barra delle azioni è possibile scaricare un file zip contenente tutti i documenti presenti sul fascicolo documentale.
 
 .. figure:: /media/barra_azioni_downfascicolo.png
    :align: center
    :name: barra-azioni-downfascicolo
-   :alt: Downloadf fascicolo barra azioni
+   :alt: Download fascicolo barra azioni
    
    Azioni - Download fascicolo
 
@@ -108,4 +108,4 @@ Firma
 
 .. _section-firma:
 
-La firma dei verbali avvienete tramite OTP ricevuto per email o sms.
+La firma dei verbali avviene tramite OTP ricevuto per email o sms.
