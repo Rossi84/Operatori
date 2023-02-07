@@ -1,0 +1,20 @@
+Istanza di definizione (Modello GU14)
+=====================================
+
+In questa sezione saranno analizzate le azioni possibili sui singoli procedimenti di definizione, in funzione dello stato in cui si trova il procedimento e da chi possono essere fatte.
+
+L'applicazione mostrerà solo i pulsanti delle operazioni permesse tenendo presente lo stato del procedimento e il ruolo di chi sta visualizzando il procedimento:
+
+- **Guest**: può solo visualizzare i dati della definizione senza poter compiere alcuna operazione.
+- **Responsabile operatore**: può compiere tutte le azioni sulle definizioni a lui assegnate.
+- **Operatore**: può compiere tutte le azioni sulle definizioni della segreteria di appartenenza.
+
+.. toctree::
+  :maxdepth: 3
+  :hidden:
+  :caption: Istanza di definizione
+
+  gu14/fascicolo-documentale.rst
+  gu14/memoriecontrodeduzioni.rst
+  gu14/risposta-richistruttoria.rst
+  gu14/udienza.rst
