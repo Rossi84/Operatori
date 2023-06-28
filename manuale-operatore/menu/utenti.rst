@@ -18,7 +18,7 @@ Segretario mastre sostituto
 
 Gli utenti con profilo segretario master potranno, se necessario attribuire il ruolo di segretario master sostituto agli utenti con ruolo segretario operatore. 
 
-.. figure:: /media/segeretario_master_sostituto.png
+.. figure:: /media/segretario_master_sostituto.png
    :align: center
    :name: segretario-master-sostituto
    :alt: Segreatario master sostituto
